@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VItor-Ace
 - 👀 I’m interested in physics, computing, engineering, chess and astronomy
-- 🌱 I’m currently learning python, C and C++. Also AutoCAD.
+- 🌱 I’m currently learning computational vision, web development with ThreeJS, and Matlab.
 - 📫 How to reach me: Instagram @vitor.xugusto LinkedIn @Vitor Augusto
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge The Office fan 
